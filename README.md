@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ioiein
+- 👋 Hi, I’m Ivan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on some projects in CV
